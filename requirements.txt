@@ -1,4 +1,4 @@
-# requirements.txt
 pandas
 openpyxl
 streamlit
+altair<5
